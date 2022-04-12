@@ -17,6 +17,8 @@ Pytorch가 아닌 Tensorflow를 선택한 이유는 [M1 gpu를 지원](apple.dev
   - IDE는 VS Code가 아닌 Rstudio를 이용할 예정입니다.
   - Rstudio가 제게 익숙하고, 추후 스터디 노트 또한 R마크다운으로 knitting해서 퍼블리쉬하려고 합니다.
 
-## Dive into Deep Learning <a href='https://d2l.ai/index.html'><img src='images/cover_dive_DL.png' align="right" height="150" /></a>
+## Dive into Deep Learning <a href='https://d2l.ai/index.html'><img src='images/cover_dive_DL.png' align="right" height="200" /></a>
 
 - Source: https://d2l.ai/index.html
+- Tensorflow를 이용한 딥러닝 스터디 자료입니다.
+
