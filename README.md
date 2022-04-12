@@ -20,5 +20,10 @@ Pytorch가 아닌 Tensorflow를 선택한 이유는 [M1 gpu를 지원](apple.dev
 ## Dive into Deep Learning <a href='https://d2l.ai/index.html'><img src='images/cover_dive_DL.png' align="right" height="200" /></a>
 
 - Source: https://d2l.ai/index.html
-- Tensorflow를 이용한 딥러닝 스터디 자료입니다.
+- Tensorflow를 이용한 딥러닝 스터디 자료
+
+## Hands-on Machine Learning <a href='https://github.com/ageron/handson-ml2'><img src='images/cover_hand-on.jpeg' align="right" height="200" /></a>
+
+- Source code: https://github.com/ageron/handson-ml2
+- Scikit-Learn, Keras & Tensorflow를 이용한 머신러닝 스터디 자료
 
