@@ -37,6 +37,6 @@ Pytorch가 아닌 Tensorflow를 선택한 이유는 [M1 gpu를 지원](apple.dev
 - [Source code](https://github.com/ageron/handson-ml2)
 - [Free pdf](https://github.com/ageron/handson-ml2)
 
-### 이론 <a href='https://hastie.su.domains/Papers/ESLII.pdf'><img src='images/cover_ESL.jpeg' align="right" height="100" /></a>
+### 이론 <a href='https://hastie.su.domains/Papers/ESLII.pdf'><img src='images/cover_ESL.jpg' align="right" height="100" /></a>
 - Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. The Elements of Statistical Learning: Data Mining, Inference and Prediction. 2nd ed. Springer, 2009. http://www-stat.stanford.edu/~tibs/ElemStatLearn/.
 - [Free pdf](https://hastie.su.domains/Papers/ESLII.pdf)
