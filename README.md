@@ -24,7 +24,7 @@ Pytorch가 아닌 Tensorflow를 선택한 이유는 [M1 gpu를 지원](apple.dev
 
 <br>
 
-## Hands-on Machine Learning <a href='https://github.com/ageron/handson-ml2'><img src='images/cover_hands-on.jpeg' align="right" height="150" /></a>
+## Hands-on Machine Learning 2nd edition <a href='https://github.com/ageron/handson-ml2'><img src='images/cover_hands-on.jpeg' align="right" height="150" /></a>
 
 - Source code: https://github.com/ageron/handson-ml2
 - [Free pdf](https://github.com/ageron/handson-ml2)
