@@ -22,21 +22,21 @@ Pytorch가 아닌 Tensorflow를 선택한 이유는 [M1 gpu를 지원](apple.dev
 ### 핸즈온 <a href='https://d2l.ai/index.html'><img src='images/cover_dive_DL.png' align="right" height="100" /></a>
 
 - Zhang, Aston, Zachary C. Lipton, Mu Li, and Alexander J. Smola. “Dive into Deep Learning.” ArXiv Preprint ArXiv:2106.11342, 2021. 
-- [Source](https://d2l.ai/index.html)
+- 🔗 [Source](https://d2l.ai/index.html)
 
 ### 이론 <a href='https://www.deeplearningbook.org'><img src='images/cover_DeepLearning.jpg' align="right" height="100" /></a>
 
 - Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016. 
-- [Source](https://www.deeplearningbook.org)
+- 🔗 [Source](https://www.deeplearningbook.org)
 
 ## 머신러닝 스터디
 
 ### 핸즈온 <a href='https://github.com/ageron/handson-ml2'><img src='images/cover_hands-on.jpeg' align="right" height="100" /></a>
 
 - Géron, Aurélien. Hands-on Machine Learning with Scikit-Learn and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems. Sebastopol, CA: O’Reilly Media, 2017.
-- [Source code](https://github.com/ageron/handson-ml2)
-- [Free pdf](https://github.com/ageron/handson-ml2)
+- 🔗 [Source code](https://github.com/ageron/handson-ml2)
+- 🔗 [Free pdf](https://github.com/ageron/handson-ml2)
 
 ### 이론 <a href='https://hastie.su.domains/Papers/ESLII.pdf'><img src='images/cover_ESL.jpg' align="right" height="100" /></a>
 - Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. The Elements of Statistical Learning: Data Mining, Inference and Prediction. 2nd ed. Springer, 2009. http://www-stat.stanford.edu/~tibs/ElemStatLearn/.
-- [Free pdf](https://hastie.su.domains/ElemStatLearn/)
+- 🔗 [Free pdf](https://hastie.su.domains/ElemStatLearn/)
